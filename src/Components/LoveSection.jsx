@@ -28,7 +28,7 @@ const LoveSection = () => {
         { 
           icon: "🌙", 
           frontText: "My heart says...", 
-          backText: "You're the only I need and you have the half of it",
+          backText: "You're the only one I need and you have the half of it",
           color: "from-rose-300 to-pink-400"
         },
         { 
