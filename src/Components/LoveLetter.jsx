@@ -23,7 +23,7 @@ const LoveLetter = () => {
                         </p>
 
                         <p className="mb-6">
-                            I am very grateful to have you always and I'm blessed na meron akong amazing woman, kind human, and caring na girlfriend in my whole life. Thank you so much bebe kasi lagi mo me hinihelp, nakikinig sa mga problems and ano nafe-feel ko, i love how much you're concerned palagi sa'kin. Thank you sa full support mo sa mga gusto ko na knowing para rin satin at sa future natin. I appreciate how much you card about me and syempre nafe-feel ko yung love mo lagi. 
+                            I am very grateful to have you always and I'm blessed na meron akong amazing woman, kind human, and caring na girlfriend in my whole life. Thank you so much bebe kasi lagi mo me hinihelp, nakikinig sa mga problems and ano nafe-feel ko, i love how much you're concerned palagi sa'kin. Thank you sa full support mo sa mga gusto ko na knowing para rin satin at sa future natin. I appreciate how much you cared about me and syempre nafe-feel ko yung love mo lagi. 
                         </p>
 
                         <p className="mb-6">
